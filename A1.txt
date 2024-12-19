@@ -1,0 +1,123 @@
+Which of the following are statements? Comment on the truth values of all the statements you encounter; if a sentence fails to be a statement, explain why.
+
+1. All swans are white. -->Yes
+   False as black swans also exists
+
+ 2. The fat cat sat on the mat.---->Yes
+    May or not be true as we donot know exact truth whether cat sits or not
+
+3. Look in thy glass and tell whose face thou viewest.   No
+      Reason: It is not a statement. 
+
+4. My glass shall not persuade me I am old.   Yes
+   Could be true or false
+   
+
+5. Father Nikolsky penned his dying confession to Patriarch Arsen III Charnoyevich of Peç in the pitch dark, somewhere in Poland, using a mixture of gunpowder and saliva, and a quick Cyrillic hand, while the innkeeper's wife scolded and cursed him through the bolted door.      Yes 
+could be true or false
+
+6. 1,000,000,000 is the largest number.   Yes
+   could be true or false as largest number may also exists
+   
+
+7. There is no largest number.   yes
+   True
+
+8. There may or may not be a largest number.    Yes
+   True
+
+9. Intelligent life abouds in the universe.   Yes
+   True
+
+10. This definitely is a statement.  Yes
+    True
+
+11. The speaker is lying. Yes
+    may or may not be true
+
+12. This is exercise number 12.   Yes
+    True
+
+13. This sentence no verb.    No
+   
+
+14. "potato" is spelled p-o-t-a-t-o-e.    Yes
+    False as potato spelling is potato
+
+
+
+Let
+
+p: "Our mayor is trustworthy,"
+q: "Our mayor is a good speller,"
+r = "Our mayor is a patriot."
+Express each of the following statements in logical form:
+15. Although our mayor is not trustworthy, he is a good speller.--->(~p)and q
+
+16. Either our mayor is trustworthy, or he is a good speller. --->p or q
+
+17. Our mayor is a trustworthy patriot who spells well.---> (p^r)^q
+
+18. While our mayor is both trustworthy and patriotic, he is not a good speller. --->(p ^ r) ^ ~q
+
+19. It may or may not be the case that our mayor is trustworthy. --->p v ~p=p
+
+20. Either our mayor is not trustworthy or not a patriot, yet he is an excellent speller. --->(~p v ~r) ^ q
+
+
+Let
+
+p: "Willis is a good teacher,"
+q: "Carla is a good teacher,"
+r: "Willis' students hate math,"
+s: "Carla's students hate math."
+Express the following in words:
+21. p(~r)--->Willis is a good teacher, and his students do not hate math.	
+22. (~p)(~q)----> Willis is not a good teacher and Carla is not a good teacher.
+23. p(r(~q))----->If Willis is a good teacher then his students hate math, and Carla is not a good teacher.
+24. (r(~p))q --->If Willis' students hate math and Willis is not a good teacher, then Carla is a good teacher.
+25. q(~q)--->Carla is a good teacher, and Carla is not a good teacher.
+26. ((~p)(~s))q-->If Willis is not a good teacher and Carla's students do not hate math, then Carla is a good teacher.
+27. r(~r)--->Willis' students hate math	
+28. (~s)(~r)--->Carla's students do not hate math and Willis' students do not hate math
+29. ~(qs) --->It is not the case that both Carla is a good teacher and Carla's students hate math	
+30. ~(pr)---> It is not the case that both Willis is a good teacher and Willis' students hate math
+
+
+
+Assume that it is true that "Polly sings well," it is false that "Quentin writes well," and it is true that "Rita is good at math." Determine the truth of each of the following statements.
+31. Polly sings well and Quentin writes well.--->False
+
+32. Polly sings well or Quentin writes well.--->True
+
+33. Polly sings poorly and Quentin writes well.--->False
+
+34. Polly sings poorly or Quentin writes poorly.--->True
+
+35. Either Polly sings well and Quentin writes poorly, or Rita is good at math.----> True
+
+36. Either Polly sings well and Quentin writes poorly, or Rita is not good at math.--->False
+
+37. Either Polly signs well or Quentin writes well, or Rita is good at math. -->True
+
+38. Either Polly sings well and Quentin writes well, or Polly sings well and Rita is good at math. -->True
+
+39. Polly sings well, and either Quentin writes well or Rita is good at math.--->True
+
+40. Polly sings poorly, or Quentin writes poorly and Rita is good at math. --->True
+
+Communication and Reasoning Exercises
+
+41. The statement that either p or q is true, but not both is called the exclusive disjunction of p and q, which we shall write as p # q. Give a formula for p # q in terms of the logical operators --->(p^¬q)∨(¬p^q)
+
+42. The statement that either p and q are both true, or neither is true, is called the biconditional of p and q, and write it as pq. Give a formula for pq in terms of the logical operators ---->(p^q)∨(¬p^q)
+
+43. Referring to Exercise 41, give an example of an everyday usage of exclusive disjunction.
+You can have either coffee or tea, but not both
+
+44. Referring to Exercise 42, give an example of an everyday usage of the biconditional
+    You will get a chocolate if and only if you finish your homework.
+
+45. Give an example of a self-referential question that is its own answer. 
+    Is this question True? 
+
